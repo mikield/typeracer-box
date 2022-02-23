@@ -41,6 +41,6 @@
 ## ✨ Credits
 This code was heavily inspired (with some parts taken over) by [@jacc's music-box](https://github.com/jacc/music-box/).
 
-## 📄 License
+## 📄 License 
 
 [typeracer-box](https://github.com/tobimori/typeracer-box) is licensed under the [MIT License](https://github.com/tobimori/typeracer-box/blob/master/LICENSE)
